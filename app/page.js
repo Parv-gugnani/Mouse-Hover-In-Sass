@@ -2,3 +2,4 @@
 
 import styles from "./page.module.scss";
 import { useState } from "react";
+import { motion } from "framer-motion";
