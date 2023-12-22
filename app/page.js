@@ -40,6 +40,4 @@ export default function Home() {
       </div>
     </main>
   );
-
-  // nic app
 }
